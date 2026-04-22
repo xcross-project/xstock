@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Production/">
+    <Project Path="xstock.lib/xstock.lib.csproj" />
+    <Project Path="xstock.serv/xstock.serv.csproj" />
+    <Project Path="xstock.ui/xstock.ui.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
+  <Folder Name="/Testings/" />
+</Solution>

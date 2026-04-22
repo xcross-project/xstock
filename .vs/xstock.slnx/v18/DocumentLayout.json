@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\Official\\Github\\xstock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\webapi\\controllers\\dujiao-next\\dujiaonext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\webapi\\controllers\\dujiao-next\\dujiaonext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comm\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comm\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comm\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comm\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comm\\rsautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comm\\rsautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\webapi\\middlewares\\detectmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\webapi\\middlewares\\detectmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\webapi\\webapiserv.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E802D5-BFDB-42D1-9A72-25FDBA03CD0D}|xstock.serv\\xstock.serv.csproj|d:\\development\\official\\github\\xstock\\xstock.serv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E802D5-BFDB-42D1-9A72-25FDBA03CD0D}|xstock.serv\\xstock.serv.csproj|solutionrelative:xstock.serv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\conf\\xstock.webapi.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\conf\\xstock.webapi.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E802D5-BFDB-42D1-9A72-25FDBA03CD0D}|xstock.serv\\xstock.serv.csproj|d:\\development\\official\\github\\xstock\\xstock.serv\\xstock.serv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20E802D5-BFDB-42D1-9A72-25FDBA03CD0D}|xstock.serv\\xstock.serv.csproj|solutionrelative:xstock.serv\\xstock.serv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comm\\detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comm\\detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\schema\\dto\\stdgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\schema\\dto\\stdgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\webapi\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\webapi\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\stockcore.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\stockcore.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\webapi\\webapiserv.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\stockcore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\stockcore.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\stockcore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\stockcore.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\schema\\dst\\xstock.conf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\schema\\dst\\xstock.conf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\schema\\dst\\xstock.logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\schema\\dst\\xstock.logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\log\\logger.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\log\\logger.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\log\\logger.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\log\\logger.imp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\log\\logger.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\log\\logger.defs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\conf\\xstock.logger.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\conf\\xstock.logger.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\schema\\dst\\xstock.webapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\schema\\dst\\xstock.webapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\xstock.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\xstock.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|d:\\development\\official\\github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5817B6EC-2BF6-43C7-9673-6A100A49AA31}|xstock.lib\\xstock.lib.csproj|solutionrelative:xstock.lib\\comp\\webapi\\webapiserv.main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "http.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comm\\http.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comm\\http.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comm\\http.cs",
+              "RelativeToolTip": "xstock.lib\\comm\\http.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:50:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "detectmiddleware.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\middlewares\\detectmiddleware.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\webapi\\middlewares\\detectmiddleware.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\middlewares\\detectmiddleware.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\webapi\\middlewares\\detectmiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:18:46.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "xstock.webapi.conf",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\conf\\xstock.webapi.conf",
+              "RelativeDocumentMoniker": "xstock.lib\\conf\\xstock.webapi.conf",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\conf\\xstock.webapi.conf",
+              "RelativeToolTip": "xstock.lib\\conf\\xstock.webapi.conf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T05:15:30.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "common.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comm\\common.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comm\\common.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comm\\common.cs",
+              "RelativeToolTip": "xstock.lib\\comm\\common.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:38:02.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "stockcore.imp.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\stockcore.imp.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\stockcore.imp.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\stockcore.imp.cs",
+              "RelativeToolTip": "xstock.lib\\stockcore.imp.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:09:03.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "webapiserv.imp.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.imp.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\webapi\\webapiserv.imp.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.imp.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\webapi\\webapiserv.imp.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAhwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:10:57.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dujiaonext.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\controllers\\dujiao-next\\dujiaonext.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\webapi\\controllers\\dujiao-next\\dujiaonext.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\controllers\\dujiao-next\\dujiaonext.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\webapi\\controllers\\dujiao-next\\dujiaonext.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAADwv6AAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T07:39:16.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.serv\\Program.cs",
+              "RelativeDocumentMoniker": "xstock.serv\\Program.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.serv\\Program.cs",
+              "RelativeToolTip": "xstock.serv\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:34:18.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rsautility.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comm\\rsautility.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comm\\rsautility.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comm\\rsautility.cs",
+              "RelativeToolTip": "xstock.lib\\comm\\rsautility.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:38:59.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "stockcore.defs.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\stockcore.defs.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\stockcore.defs.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\stockcore.defs.cs",
+              "RelativeToolTip": "xstock.lib\\stockcore.defs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:09:26.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "xstock.conf.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\schema\\dst\\xstock.conf.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\schema\\dst\\xstock.conf.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\schema\\dst\\xstock.conf.cs",
+              "RelativeToolTip": "xstock.lib\\schema\\dst\\xstock.conf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:26:47.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "xstock.serv",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.serv\\xstock.serv.csproj",
+              "RelativeDocumentMoniker": "xstock.serv\\xstock.serv.csproj",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.serv\\xstock.serv.csproj",
+              "RelativeToolTip": "xstock.serv\\xstock.serv.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T05:33:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "test.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\controllers\\test.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\webapi\\controllers\\test.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\controllers\\test.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\webapi\\controllers\\test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:36:25.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "stdgram.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\schema\\dto\\stdgram.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\schema\\dto\\stdgram.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\schema\\dto\\stdgram.cs",
+              "RelativeToolTip": "xstock.lib\\schema\\dto\\stdgram.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwCkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:37:00.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "detector.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comm\\detector.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comm\\detector.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comm\\detector.cs",
+              "RelativeToolTip": "xstock.lib\\comm\\detector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:38:36.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "webapiserv.defs.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.defs.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\webapi\\webapiserv.defs.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.defs.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\webapi\\webapiserv.defs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:11:24.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "xstock.logger.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\schema\\dst\\xstock.logger.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\schema\\dst\\xstock.logger.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\schema\\dst\\xstock.logger.cs",
+              "RelativeToolTip": "xstock.lib\\schema\\dst\\xstock.logger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:20:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "logger.main.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\log\\logger.main.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\log\\logger.main.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\log\\logger.main.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\log\\logger.main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:19:20.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "stockcore.main.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\stockcore.main.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\stockcore.main.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\stockcore.main.cs",
+              "RelativeToolTip": "xstock.lib\\stockcore.main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:33:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "logger.imp.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\log\\logger.imp.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\log\\logger.imp.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\log\\logger.imp.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\log\\logger.imp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:19:35.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "logger.defs.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\log\\logger.defs.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\log\\logger.defs.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\log\\logger.defs.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\log\\logger.defs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:19:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "xstock.logger.conf",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\conf\\xstock.logger.conf",
+              "RelativeDocumentMoniker": "xstock.lib\\conf\\xstock.logger.conf",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\conf\\xstock.logger.conf",
+              "RelativeToolTip": "xstock.lib\\conf\\xstock.logger.conf",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T05:21:09.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "xstock.webapi.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\schema\\dst\\xstock.webapi.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\schema\\dst\\xstock.webapi.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\schema\\dst\\xstock.webapi.cs",
+              "RelativeToolTip": "xstock.lib\\schema\\dst\\xstock.webapi.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:14:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "webapiserv.main.cs",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.main.cs",
+              "RelativeDocumentMoniker": "xstock.lib\\comp\\webapi\\webapiserv.main.cs",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\comp\\webapi\\webapiserv.main.cs",
+              "RelativeToolTip": "xstock.lib\\comp\\webapi\\webapiserv.main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:10:21.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "xstock.lib",
+              "DocumentMoniker": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\xstock.lib.csproj",
+              "RelativeDocumentMoniker": "xstock.lib\\xstock.lib.csproj",
+              "ToolTip": "D:\\Development\\Official\\Github\\xstock\\xstock.lib\\xstock.lib.csproj",
+              "RelativeToolTip": "xstock.lib\\xstock.lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T05:05:57.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

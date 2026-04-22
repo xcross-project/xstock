@@ -1,0 +1,82 @@
+﻿ XPay  - X-Stock Core Service version 1.0.0.0
+
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 13:40:33.403][TRACE]path: [/] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 13:40:41.902][TRACE]path: [/test/hello] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 15:41:40.300][TRACE]path: [/dujiao-next/upstream] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 15:50:17.876][TRACE]path: [/dujiao-next/api/v1/upstream/products/123123123] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 15:50:29.095][TRACE]path: [/dujiao-next/api/v1/upstream/products] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 15:51:43.081][TRACE]path: [/dujiao-next/api/v1/upstream/products/123123123] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 15:58:43.105][TRACE]path: [/dujiao-next/api/v1/upstream/ping] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 16:00:00.460][TRACE]path: [/dujiao-next/api/v1/upstream] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 16:27:37.676][TRACE]path: [/dujiao-next/api/v1/upstream] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:27:51.599][TRACE]path: [/dujiao-next/api/v1/upstream] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:28:00.447][TRACE]path: [/dujiao-next/api/v1/upstream/ping] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:28:08.883][TRACE]path: [/dujiao-next/api/v1/upstream/categories] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:28:24.315][TRACE]path: [/dujiao-next/api/v1/upstream/products] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:28:42.737][TRACE]path: [/dujiao-next/api/v1/upstream/products/1] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:28:52.682][TRACE]path: [/dujiao-next/api/v1/upstream/orders] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:29:04.527][TRACE]path: [/dujiao-next/api/v1/upstream/orders/1] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:29:14.590][TRACE]path: [/dujiao-next/api/v1/upstream/orders/1/cancel] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 16:29:23.578][TRACE]path: [/test/hello] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 20:16:18.532][TRACE]path: [/dujiao-next/api/v1/upstream/orders/DJ20260421172438825921] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+[PRIORITY][2026-04-21 20:16:18.774][TRACE]path: [/favicon.ico] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 20:20:23.996][TRACE]path: [/dujiao-next/api/v1/upstream/orders/DJ20260421172438825921] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 20:22:06.565][TRACE]path: [/dujiao-next/api/v1/upstream/orders/DJ20260421172438825921] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 20:25:42.374][TRACE]path: [/dujiao-next/api/v1/upstream/orders/DJ20260421172438825921] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+ XPay  - X-Stock Core Service version 1.0.0.0
+
+[PRIORITY][2026-04-21 20:26:44.198][TRACE]path: [/dujiao-next/api/v1/upstream/orders/DJ20260421172438825921] requested.
+user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
