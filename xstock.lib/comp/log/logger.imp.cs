@@ -1,14 +1,17 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace xstock.lib.comp.log
 {
     internal partial class logger
     {
+
         
         private void __constructor_logger() {
             __status = false;
@@ -18,6 +21,19 @@ namespace xstock.lib.comp.log
         private void __start() {
             if (__status) return;
             __status = true;
+
+            if (OperatingSystem.IsLinux())
+                (__linux_consoleproc = new Process() { 
+                    StartInfo = new ProcessStartInfo() { 
+                        FileName = "/usr/bin/echo",
+                        Arguments = "-e",
+                        RedirectStandardInput = true,
+                        RedirectStandardOutput = true,
+                        RedirectStandardError = true,
+                        UseShellExecute = false,
+                        CreateNoWindow = true,
+                    }
+                }).Start();
 
             (__thd_logprocessing = new Thread(
                 new ThreadStart(__thdmtd_logprocessing))
@@ -152,7 +168,7 @@ namespace xstock.lib.comp.log
                 Console.ForegroundColor = const_default_foreground;
                 Console.BackgroundColor = const_default_background;
             }
-            else
+            else if(OperatingSystem.IsLinux() || OperatingSystem.IsFreeBSD())
             {
                 StringBuilder __textbuilder = new StringBuilder();
                 switch (foreground)
@@ -234,7 +250,17 @@ namespace xstock.lib.comp.log
                 }
                 __textbuilder.Append(text);
                 __textbuilder.Append(const_colorend);
-                Console.Write(__textbuilder.ToString());
+
+                var __echoproc = Process.Start(new ProcessStartInfo() {
+                    FileName = "/usr/bin/echo",
+                    Arguments = $"-e \"{Regex.Replace(__textbuilder.ToString(), "\"", "\\\"")}\"",
+                    CreateNoWindow = true,
+                    UseShellExecute = false,
+                    RedirectStandardInput = true,
+                    //RedirectStandardOutput = true,
+                    RedirectStandardError = true,
+                });
+                __echoproc.WaitForExit();
             }
         }
     }

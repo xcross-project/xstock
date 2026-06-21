@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections.Concurrent;
+using System.Diagnostics;
 
 namespace xstock.lib.comp.log
 {
     internal partial class logger
     {
         private const string const_emptystring = "";
-        private const string const_colorend = "\\033[0m";
+        private const string const_colorend = "\\033[0m\\c";
         private const int const_sleepinterval = 0x3e8;
         private const ConsoleColor const_default_foreground = ConsoleColor.White;
         private const ConsoleColor const_default_background = ConsoleColor.Black;
@@ -77,5 +78,7 @@ namespace xstock.lib.comp.log
         private ConcurrentQueue<block[]> __con_logsqueue_priority;
 
         private Thread __thd_logprocessing;
+
+        private Process __linux_consoleproc;
     }
 }
