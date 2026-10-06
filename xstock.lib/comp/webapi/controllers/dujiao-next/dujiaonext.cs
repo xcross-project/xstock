@@ -104,10 +104,10 @@ namespace xstock.lib.comp.webapi.controllers.dujiao_next
 
         [HttpGet]
         [Route("products/{id}")]
-        public string producbyid() => JsonSerializer.Serialize(new { 
+        public string producbyid(string id) => JsonSerializer.Serialize(new { 
             ok = true,
             product = new {
-                id = 1,
+                id = id,
                 slug = "gmail",
                 title = new { en = "gmail" },
                 description = new { en = "this is product gmail" },

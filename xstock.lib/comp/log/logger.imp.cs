@@ -22,18 +22,6 @@ namespace xstock.lib.comp.log
             if (__status) return;
             __status = true;
 
-            if (OperatingSystem.IsLinux())
-                (__linux_consoleproc = new Process() { 
-                    StartInfo = new ProcessStartInfo() { 
-                        FileName = "/usr/bin/echo",
-                        Arguments = "-e",
-                        RedirectStandardInput = true,
-                        RedirectStandardOutput = true,
-                        RedirectStandardError = true,
-                        UseShellExecute = false,
-                        CreateNoWindow = true,
-                    }
-                }).Start();
 
             (__thd_logprocessing = new Thread(
                 new ThreadStart(__thdmtd_logprocessing))
@@ -161,7 +149,10 @@ namespace xstock.lib.comp.log
         }
 
         private void __colorwrite(string text, ConsoleColor foreground = const_default_foreground, ConsoleColor background = const_default_background) {
-            if (OperatingSystem.IsWindows()) {
+            if (
+                true
+                //OperatingSystem.IsWindows() //该方法已兼容linux环境，无需特别拼接echo
+                ) {
                 Console.ForegroundColor = foreground;
                 Console.BackgroundColor = background;
                 Console.Write(text);

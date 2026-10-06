@@ -78,7 +78,5 @@ namespace xstock.lib.comp.log
         private ConcurrentQueue<block[]> __con_logsqueue_priority;
 
         private Thread __thd_logprocessing;
-
-        private Process __linux_consoleproc;
     }
 }
